@@ -1,0 +1,58 @@
+*{
+    background-color: #7CFC00;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    border-radius: 50%;
+    width: auto;
+}
+.principal{
+    background-color: blueviolet;
+    text-align: center;
+    width: 450px;
+    height: 500px;
+    padding: 50px 50px;
+    margin: 50px auto;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+h1,h2{
+       background-color: blueviolet; 
+}
+
+button{
+    width: 70px;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: darkmagenta;
+    opacity: 0.9;
+}
+
+input{
+   
+    height: 30px;
+    border-radius: 10px;
+}
+
+::placeholder{
+    font-weight: bold;
+}
+
+.rodape{
+   font-weight: bold;
+    color:black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.br{
+background-color: #7CFC00;    
+}
